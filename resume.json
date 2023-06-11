@@ -29,36 +29,36 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "Software Consultant",
+      "position": "Freelance Software Developer",
       "location": "Cambridge, MA",
-      "url": "https://detc.cc",
+      "website": "https://detc.cc/contact",
       "startDate": "2023-01-01",
-      "summary": "Simplyfying problems for humans and computers.",
+      "summary": "Need help with a project? Drop me a line. I'm based in Cambridge, MA and am available for short and long-term freelance work.",
       "highlights": [
-        "Seeking new clients.",
-        "Currently working with agencies such as Art + Logic and TopTal."
+        "Professional services: React/Next apps, Personal sites, Typescript, API integrations, and GraphQL servers.",
+        "Hobby projects: I'm open to collborating on projects involving: generative fiction, digital books, and education.",
+        "Currently Learning: React Native"
       ]
     },
     {
-      "name": "University of Virginia",
+      "company": "University of Virginia",
       "position": "University Instructor",
       "location": "Charlottesville, VA",
-      "url": "https://english.as.virginia.edu/",
+      "website": "https://english.as.virginia.edu/",
       "startDate": "2021-06-01",
       "endDate": "2022-06-01",
-      "summary": "Helping students discover what, how, and why they write.",
+      "summary": "As a graduate instructor in UVA's Creative Writing program, I taught multiple sections of undergrads, helping students discover what, how, and why they write.",
       "highlights": [
-        "Taught two (2) semester-long undergraduate English courses in Fiction, Personal Narrative, and Composition.",
+        "Taught semester-long undergraduate English courses in Fiction, Personal Narrative, and Composition.",
         "Lectured and facilitated peer review and workshops, covering topics from Experimental Fiction to Personal Memoir.",
         "Supported student applications for Area Program in Prose and the Writer's Eye contest for Ekphrastic Writing."
       ]
     },
     {
-      "name": "1stDibs",
+      "company": "1stDibs",
       "position": "Software Engineer",
       "location": "New York, NY",
-      "url": "https://1stdibs.com",
+      "website": "https://1stdibs.com",
       "startDate": "2017-11-11",
       "endDate": "2020-09-01",
       "summary": "1stDibs is a marketplace for one-of-a-kind items with 5M+ monthly visitors. As a JavaScript developer on the Core Engagement and International teams, I wrote key integrations to launch the Internationalized eCommerce site.",
@@ -74,14 +74,15 @@
       ]
     },
     {
-      "name": "Remind",
+      "company": "Remind",
       "position": "Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://remind.com/chat",
+      "website": "https://remind.com/chat",
       "startDate": "2016-06-01",
       "endDate": "2017-09-01",
-      "summary": "Full Stack development for K-12 teachers, students, and parents on a messaging platform with 20M+ monthly users. Using: React, GraphQL, Node, Ruby on Rails, Go, AWS, Docker, and CircleCI.",
+      "summary": "Remind helps students, teachers, and parents safely communicate in K-12 schools. As a Product Engineer on the Core Engagement team, I worked across the stack to ship features support a user base of 20M+ monthly users.",
       "highlights": [
+        "React, GraphQL, Node, Ruby on Rails, Go, AWS, Docker, and CircleCI.",
         "Full-stack implementation of reaction emojis for Message Reactions, File Uploading, and Message Composition.",
         "Participated in monthly 48 hour on-call rotation to monitor backend infrastructure and front end services",
         "Contributed to team-wide adoption of modern javascript frameworks: Apollo GraphQL, Redux, and React",
@@ -91,13 +92,13 @@
       ]
     },
     {
-      "name": "Foursquare",
+      "company": "Foursquare",
       "position": "Software Engineering Intern",
       "location": "New York, NY",
       "url": "https://foursquare.com/",
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
-      "summary": "Supported the Data Science team on a location-based social network with 50M+ monthly users.",
+      "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a data engineering intern, I learned a ton from a team of Data Scientists. I supported the in-house Machine Learning pipeline using Scalding and Luigi MapReduce frameworks, improving Scala server performance, and created internal tools for the product team.",
       "highlights": [
         "Implemented 'Recently Viewed Venues' feature for LambdaMART learning-to-rank model.",
         "Improved product-engineering communication by creating internal dashboard for testing location models.",
@@ -106,14 +107,15 @@
       ]
     },
     {
-      "name": "University of Pennsylvania",
+      "company": "University of Pennsylvania",
       "position": "Teaching Assistant",
       "location": "Philadelphia, PA",
-      "url": "https://www.cis.upenn.edu/",
+      "website": "https://www.cis.upenn.edu/",
       "startDate": "2013-09-01",
       "endDate": "2015-05-01",
-      "summary": "Teaching assistant for courses on Functional Programming, Data Structures, and Theory of Computation.",
+      "summary": "I was a teaching assistant for several undergraduate courses, including: Functional Programming, Data Structures, and Theory of Computation.",
       "highlights": [
+        "Java, OCaml, LaTeX, and Javascript.",
         "Led weekly presentations and assignments for groups 20-students.",
         "Provided one-on-one mentorship on homework and exam preparation.",
         "Assisted professors in various tasks such as improving course documentation, assignment updates, and grading exams."
@@ -127,19 +129,20 @@
       "endDate": "2015-03-01",
       "summary": "Web-based recruitment platform, Crowd.",
       "highlights": [
-        "Designed, implemented, and deployed landing page.",
-        "Served as primary liason between non-technical founder and software contractors for web and mobile apps."
+        "Designed, implemented, and deployed the company landing page.",
+        "Served as primary liason between non-technical founder and software contractors for web and iOS apps."
       ]
     },
     {
-      "name": "Capvision Partners",
+      "company": "Capvision Partners",
       "location": "Shanghai, China",
       "position": "iOS Engineering Intern",
-      "url": "https://capvision.com/",
+      "website": "https://capvision.com/",
       "startDate": "2013-09-01",
       "endDate": "2015-05-01",
       "summary": "Cross-functional intern working with members of IT and Marketing teams for a financial consulting firm.",
       "highlights": [
+        "Objective-C, Core Data, Swift, and SQLite.",
         "Built iOS app (凯盛汇/KaiShengHui) for consultants to read and share in-house industry news, find new projects, find and RSVP to events, and view profile and existing project updates.",
         "Collaborated with all-Chinese Marketing and Design teams to define application requirements.",
         "Designed and implemented networking client backed by Core Data to persist JSON responses to local SQLite."
