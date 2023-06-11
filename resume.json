@@ -95,7 +95,7 @@
       "company": "Foursquare",
       "position": "Software Engineering Intern",
       "location": "New York, NY",
-      "url": "https://foursquare.com/",
+      "website": "https://foursquare.com/",
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
       "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a data engineering intern, I learned a ton from a team of Data Scientists. I supported the in-house Machine Learning pipeline using Scalding and Luigi MapReduce frameworks, improving Scala server performance, and created internal tools for the product team.",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "Symposium Inc.",
+      "company": "Symposium Inc.",
       "position": "Product Manager",
       "location": "Philadelphia, PA",
       "startDate": "2014-09-01",
@@ -258,7 +258,7 @@
   "education": [
     {
       "institution": "University of Virginia",
-      "url": "https://virginia.edu",
+      "website": "https://virginia.edu",
       "area": "Creative Writing",
       "studyType": "Master of Fine Arts",
       "startDate": "2020-09-01",
@@ -274,7 +274,7 @@
     },
     {
       "institution": "University of Virginia",
-      "url": "https://upenn.edu",
+      "website": "https://upenn.edu",
       "area": "Computer Science, East Asian Studies",
       "studyType": "Bachelor of Arts",
       "startDate": "2011-09-01",
@@ -292,7 +292,7 @@
   ],
   "awards": [
     {
-      "title": "Poe Faulkner Fellowship",
+      "title": "Poe Faulkner Fellowship 2020-2022",
       "date": "2020-09-01",
       "awarder": "University of Virginia",
       "summary": "Fully-funded graduate studies and living stipend."
@@ -323,28 +323,28 @@
       "name": "SNAKES",
       "publisher": "HAD Magazine",
       "releaseDate": "2020-12-12",
-      "url": "https://www.havehashad.com/hadposts/snakes",
+      "website": "https://www.havehashad.com/hadposts/snakes",
       "summary": "Short fiction"
     },
     {
       "name": "Novel Excerpt: Dry Creek Bridge",
       "publisher": "University of Virginia Libraries",
       "releaseDate": "2023-04-18",
-      "url": "https://libraetd.lib.virginia.edu/public_view/ff365641t",
+      "website": "https://libraetd.lib.virginia.edu/public_view/ff365641t",
       "summary": "The first 100 pages of a novel about a flight to Hong Kong, the death of a friend, and a metal band from Modesto, California."
     },
     {
       "name": "Bypassing Censorship on Sina Weibo",
       "publisher": "Sino Platonic Papers",
       "releaseDate": "2016-12-12",
-      "url": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf",
+      "website": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf",
       "summary": "Crawling China's Twitter to examine the emergence of new terms used to bypass censors."
     },
     {
       "name": "Sarina",
       "publisher": "Peregrine Magazine",
       "releaseDate": "2016-04-01",
-      "url": "https://creative.writing.upenn.edu/honors-awards/creative-writing-prizes",
+      "website": "https://creative.writing.upenn.edu/honors-awards/creative-writing-prizes",
       "summary": "Short story."
     }
   ],
