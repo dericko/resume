@@ -1,14 +1,14 @@
 {
   "meta": {
-    "theme": "jsonresume-theme-macchiato"
+    "theme": "contempo"
   },
   "basics": {
     "name": "Derick Olson-Chan",
     "label": "Software Engineer",
-    "image": "https://avatars.githubusercontent.com/u/5404230?s=400&u=796a4392511e91287b5ee67533ea43e9c416227c&v=4",
+    "image": "https://avatars0.githubusercontent.com/u/5404230?s=400&u=796a4392511e91287b5ee67533ea43e9c416227c&v=4",
     "email": "olsonderick@gmail.com",
-    "website": "https://detc.com",
-    "summary": "I'm a full stack web developer with 5+ years of experience building and shipping apps for millions of users. I've mostly worked with startups and am used to wearing multiple hats. I focus on product experience and prioritize feedback from users and non-technical teammates. I’m passionate about empowering people to create and share their stories. I'm seeking a role at intersection of technology, books, and creative education.",
+    "website": "https://detc.cc",
+    "summary": "I'm a full stack software engineer with 5 years of experience building and shipping apps for millions of users at startups like Remind, 1stDibs, and Foursquare. I also have an MFA in Creative Writing and a passion for storytelling, community engagement, and digital archives. I’m looking to contribute my skills and experience to an innovative team working at the intersection of technology, learning, and language, to work together toward a sustainable future.",
     "location": {
       "city": "Cambridge",
       "countryCode": "US",
@@ -17,12 +17,12 @@
     "profiles": [
       {
         "network": "Github",
-        "username": "dericko",
+        "username": "github.com/dericko",
         "url": "https://github.com/dericko"
       },
       {
         "network": "LinkedIn",
-        "username": "derickolson",
+        "username": "/in/derickolson",
         "url": "https://www.linkedin.com/in/derickolson"
       }
     ]
@@ -47,11 +47,11 @@
       "website": "https://english.as.virginia.edu/",
       "startDate": "2021-06-01",
       "endDate": "2022-06-01",
-      "summary": "As a graduate instructor in UVA's Creative Writing program, I taught multiple sections of undergrads, helping students discover what, how, and why they write.",
+      "summary": "I was a Poe/Faulkner Fellow in Fiction and completed a Master of Fine Arts degree with my manuscript `Dry Creek Bridge`. As a graduate instructor in UVA&#x27;s Creative Writing program, I taught multiple sections of undergrads, helping students discover what, how, and why they write.",
       "highlights": [
-        "Taught semester-long undergraduate English courses in Fiction, Personal Narrative, and Composition.",
-        "Lectured and facilitated peer review and workshops, covering topics from Experimental Fiction to Personal Memoir.",
-        "Supported student applications for Area Program in Prose and the Writer's Eye contest for Ekphrastic Writing."
+        "Public speaking, workshops, and group facilitation.",
+        "Pedagogy and Mentorship.",
+        "Syllabus design and course planning."
       ]
     },
     {
@@ -61,16 +61,15 @@
       "website": "https://1stdibs.com",
       "startDate": "2017-11-11",
       "endDate": "2020-09-01",
-      "summary": "1stDibs is a marketplace for one-of-a-kind items with 5M+ monthly visitors. As a JavaScript developer on the Core Engagement and International teams, I wrote key integrations to launch the Internationalized eCommerce site.",
+      "summary": "1stDibs is a marketplace for one-of-a-kind items with 5M+ monthly visitors. I worked as a frontend-leaning JavaScript developer on the Core Engagement and International teams with a focus on React, Node, GraphQL, SEO, mobile web, a11y, A/B Testing, i18n, API Integrations, and Server-Side Rendering.",
       "highlights": [
-        "Shipped responsive Mobile Web UX across Search / Browse / Product Detail Pages using React, Scss, and React Storybook.",
-        "Shipped 'Discover Page' by taking a Company Hack-a-thon prototype to production to launch 1stDibs' first personalized recommendation engine using React, Relay, and GraphQL on Node.",
         "Built automated translations system for launch of International websites in: Germany, France, & UK using React-Intl, Node scripts, Smartling API, Github API, and Jenkins build server.",
-        "Organized onsite Student Hack-a-thon with students from three NYC Public High Schools, internal stakeholders, and a team of volunteer teachers from CodeNation",
+        "Shipped 'Discover Page' by taking a Company Hack-a-thon prototype to production to launch 1stDibs' first personalized recommendation engine using React, Relay, and GraphQL on Node.",
+        "Shipped responsive Mobile Web UX across Search / Browse / Product Detail Pages using React, Scss, and React Storybook.",
         "Re-built login modals and sign-up flows across site to support new user account types for increased engagement and decreased time to first sale.",
         "Built location-based recommendations and filters to connect buyers and sellers from closer locales",
         "Re-wrote internal tooling for A/B tests and SEO optimizations, improving Product-Developer time to launch across teams.",
-        "Technologies: React, Node, GraphQL, SEO+AMP, A/B Testing, i18n, GitHub Integrations, Mobile Web, Server-Side Rendering."
+        "Organized onsite Student Hack-a-thon with students from three NYC Public High Schools, internal stakeholders, and a team of volunteer teachers from CodeNation"
       ]
     },
     {
@@ -78,22 +77,20 @@
       "position": "Software Engineer",
       "location": "San Francisco, CA",
       "website": "https://remind.com/chat",
-      "startDate": "2016-06-01",
+      "startDate": "2015-05-01",
       "endDate": "2017-09-01",
-      "summary": "Remind helps students, teachers, and parents safely communicate in K-12 schools. As a Product Engineer on the Core Engagement team, I worked across the stack to ship features support a user base of 20M+ monthly users.",
+      "summary": "Remind helps students, teachers, and parents safely communicate in K-12 schools. As a Product Engineer on the Core Engagement team, I worked across the stack to ship features support a user base of 20M+ using: Ruby on Rails, Go, React, GraphQL, Node, AWS, Docker, and CircleCI.",
       "highlights": [
-        "React, GraphQL, Node, Ruby on Rails, Go, AWS, Docker, and CircleCI.",
         "Full-stack implementation of reaction emojis for Message Reactions, File Uploading, and Message Composition.",
-        "Participated in monthly 48 hour on-call rotation to monitor backend infrastructure and front end services",
         "Contributed to team-wide adoption of modern javascript frameworks: Apollo GraphQL, Redux, and React",
         "Re-wrote Twilio integration for modern JavaScript and Node (no more callbacks!)",
-        "Successfully ran a multi-week migration from Rails-based PostgreSQL to Go service built on DynamoDB with zero downtime.",
-        "Shipped profile photo uploads, cropping, and storage using React, Apollo GraphQL, and AWS S3."
+        "Part of monthly 48 hour on-call rotations to monitor backend infrastructure and front end services",
+        "Successfully ran a multi-week migration from Rails-based PostgreSQL to Go service built on DynamoDB with zero downtime."
       ]
     },
     {
       "company": "Foursquare",
-      "position": "Software Engineering Intern",
+      "position": "Software Engineer (Co-op)",
       "location": "New York, NY",
       "website": "https://foursquare.com/",
       "startDate": "2015-05-01",
@@ -147,6 +144,15 @@
         "Collaborated with all-Chinese Marketing and Design teams to define application requirements.",
         "Designed and implemented networking client backed by Core Data to persist JSON responses to local SQLite."
       ]
+    },
+    {
+      "company": "Sustrana",
+      "location": "Philadelphia, PA",
+      "position": "Product Development Intern",
+      "website": "https://capvision.com/",
+      "startDate": "2013-09-01",
+      "endDate": "2015-05-01",
+      "summary": "Sustrana provides consultations for Environmental Sustainability and Management, helping businesses navigate the tax and legal benefits of protecting their local environment. As an intern, I wrote 10,000+ words of educational content and modules, and helped the founders with their go-to-market strategy to expand from individual consultations to a web-based MVP.",
     }
   ],
   "volunteer": [
@@ -155,13 +161,7 @@
       "position": "Writing Group Member",
       "website": "https://crit.works/",
       "startDate": "2018-01-01",
-      "summary": "Writing group based in NYC and online",
-      "highlights": [
-        "Co-run bi-weekly meetings with 9 writers of fiction, essay, and poetry.",
-        "Workshopped and edited 100+ pieces of writing including 3 novels, 1 essay collection, and dozens of short stories and poems.",
-        "Helped colleagues with submissions to literary journals and contests, resulting in 10+ publications.",
-        "Assisted colleagues with MFA applications, resulting in acceptances to top programs."
-      ]
+      "summary": "I'm a member of a wonderful writing group based in NYC. Together, we run bi-weekly workshop meetings for pieces fiction, essay, and poetry. I've workshopped and edited 100+ pieces of writing including 3 novels, 1 essay collection, and dozens of short stories and poems, helped colleagues with submissions to literary journals, contests, and MFA applications, resulting in 10+ publications and acceptances to top programs."
     },
     {
       "organization": "JBird Supply Coffee Roasters",
@@ -193,8 +193,7 @@
       "website": "https://codenation.org",
       "startDate": "2017-09-01",
       "endDate": "2019-06-01",
-      "summary": "Taught web development fundamentals (js/html/css) to high school students in Brooklyn (Uncommon Charter) and Manhattan (Seward Park Campus, Essex, LoMa, Dual-Language)",
-      "highlights": ["Hosted Student/Teacher Hack-a-thon at 1stdibs HQ"]
+      "summary": "Taught web development fundamentals (js/html/css) to high school students in Brooklyn (Uncommon Charter) and Manhattan (Seward Park Campus, Essex, LoMa, Dual-Language). I also organized and hosted my students on a field trip / Hack-a-thon at my office, 1stdibs HQ"
     },
     {
       "organization": "Literature in Context (UVA)",
@@ -209,11 +208,7 @@
       "website": "https://uvafralinartmuseum.virginia.edu/",
       "startDate": "2021-12-01",
       "endDate": "2021-12-31",
-      "summary": "Inaugaural Fralin ",
-      "highlights": [
-        "Led in-person Ekphrastic workshops based on a tour of museum galleries",
-        "Selected winners from 300+ entries for the Ekphrastic Poetry and Fiction for the Fralin Museum of Art's annual 'Writer's Eye' contest"
-      ]
+      "summary": "I led in-person Ekphrastic workshops based on a tour of museum galleries. Selected winners from 300+ entries for the Ekphrastic Poetry and Fiction for the Fralin Museum of Art's annual 'Writer's Eye' contest."
     },
     {
       "organization": "Abhaya Yoga",
@@ -221,11 +216,7 @@
       "website": "https://abhayayoga.com/",
       "startDate": "2017-10-01",
       "endDate": "2018-04-30",
-      "summary": "Assisted teachers with studio management.",
-      "highlights": [
-        "Helped with daily opening and closing of studio 2-3 times per week.",
-        "Helped owners with moving logistics and setup of new studio in Gowanus, Brooklyn"
-      ]
+      "summary": "Assisted teachers with studio management: pening and closing of studio 2-3 times per week, helping owners with moving logistics to setup new studio in Gowanus, Brooklyn."
     },
     {
       "organization": "Yoga Society of San Francisco",
@@ -233,13 +224,7 @@
       "website": "https://yogasocietysanfrancisco.com/",
       "startDate": "2016-01-01",
       "endDate": "2017-09-01",
-      "summary": "Resident Yoga Teacher at an urban ashram in San Francisco.",
-      "highlights": [
-        "Completed 200-hour yoga teacher training during four month residence.",
-        "Led twice-weekly Hath Yoga classes.",
-        "Led Agnihotra fire ceremony, chanting, and meditation 3-4 times per week",
-        "Led three workshops on meditative Breathwork."
-      ]
+      "summary": "As a Resident Yoga Teacher at an urban ashram in San Francisco, I led twice-weekly Hatha Yoga classes, led Agnihotra fire ceremonies and meditations most weekdays, and led three two-hour workshops on Meditative Breathwork."
     },
     {
       "organization": "oikos Penn",
@@ -247,12 +232,7 @@
       "website": "https://oikospennblog.wordpress.com/about/",
       "startDate": "2017-09-01",
       "endDate": "2019-06-01",
-      "summary": "Organization for sustainable economics",
-      "highlights": [
-        "Respresented the US at oikos International Presidents' Meet gathering in St. Gallen, Switzerland",
-        "Organized a sustainable micro-brewery tour at Yards Brewing company in Philadelphia, PA",
-        "Organized pop-up farmers' market at Penn, featuring local and organic produce."
-      ]
+      "summary": "Oikos is a student organization for sustainable economics. As a board member, I represented US universities at the oikos International President's meet in St. Gallen, Switzerland. I also organized events to highlight sustainable businesses in Philadelphia such as a brewery tour, an exploration of Philadelphia's Green City, Clean Water initiative, and a featured tasting of local fruit and produce."
     }
   ],
   "education": [
@@ -294,20 +274,17 @@
     {
       "title": "Poe Faulkner Fellowship 2020-2022",
       "date": "2020-09-01",
-      "awarder": "University of Virginia",
-      "summary": "Fully-funded graduate studies and living stipend."
+      "awarder": "University of Virginia"
     },
     {
       "title": "Dean's List 2011-2013",
       "date": "2013-06-01",
-      "awarder": "University of Pennsylvania",
-      "summary": "Awarded for academic excellence."
+      "awarder": "University of Pennsylvania"
     },
     {
       "title": "Benjamin Franklin Scholar 2011-2015",
       "date": "2015-06-01",
-      "awarder": "University of Pennsylvania",
-      "summary": "Interdisciplinary community focused on 'crossing boundaries and integrating knowledge.'"
+      "awarder": "University of Pennsylvania"
     }
   ],
   "certificates": [
@@ -323,29 +300,25 @@
       "name": "SNAKES",
       "publisher": "HAD Magazine",
       "releaseDate": "2020-12-12",
-      "website": "https://www.havehashad.com/hadposts/snakes",
-      "summary": "Short fiction"
+      "website": "https://www.havehashad.com/hadposts/snakes"
     },
     {
       "name": "Novel Excerpt: Dry Creek Bridge",
       "publisher": "University of Virginia Libraries",
       "releaseDate": "2023-04-18",
-      "website": "https://libraetd.lib.virginia.edu/public_view/ff365641t",
-      "summary": "The first 100 pages of a novel about a flight to Hong Kong, the death of a friend, and a metal band from Modesto, California."
+      "website": "https://libraetd.lib.virginia.edu/public_view/ff365641t"
     },
     {
       "name": "Bypassing Censorship on Sina Weibo",
       "publisher": "Sino Platonic Papers",
       "releaseDate": "2016-12-12",
-      "website": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf",
-      "summary": "Crawling China's Twitter to examine the emergence of new terms used to bypass censors."
+      "website": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf"
     },
     {
       "name": "Sarina",
       "publisher": "Peregrine Magazine",
       "releaseDate": "2016-04-01",
-      "website": "https://creative.writing.upenn.edu/honors-awards/creative-writing-prizes",
-      "summary": "Short story."
+      "website": "https://creative.writing.upenn.edu/honors-awards/creative-writing-prizes"
     }
   ],
   "skills": [
@@ -440,16 +413,13 @@
   ],
   "references": [
     {
-      "name": "Micheline Aharonian Marcom",
-      "reference": "Professor of Creative Writing at the University of Virginia. Founder of the New American Story Project."
+      "reference": "Micheline Aharonian Marcom Professor of Creative Writing at the University of Virginia. Founder of the New American Story Project."
     },
     {
-      "name": "Ronald Williams",
-      "reference": "Software Engineer at Amazon (former Director at 1stDibs)"
+      "reference": "Ronald Williams, Software Engineer at Amazon (former Director at 1stDibs)"
     },
     {
-      "name": "Enna Grazier",
-      "reference": "Founder of Enna Chocolate."
+      "reference": "Enna Grazier, Founder of Enna Chocolate."
     }
   ],
   "projects": [
@@ -457,15 +427,7 @@
       "name": "Open Meditations Podcast",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "summary": "I used to lead short meditations at the office at 1stdibs. After a time, I decided start a podcast. I leaned into the technical constraints of a noisy NYC apartment by opting to record everything outside, letting the sounds of the city become part of the experience.",
-      "highlights": [
-        "Audio: recording with a lavier mic + iPhone",
-        "Mixing: Ferrite App",
-        "Visuals: Pixelmator",
-        "Web presence: static react app on S3",
-        "Social: Instagram @openmeditations",
-        "Hosting + distribution: Podbean"
-      ],
+      "summary": "Learning into the technical constraints of a noisy NYC apartment by opting to record everything outside, letting the sounds of the city become part of the experience.",
       "url": "https://openmeditations.org/"
     },
     {
@@ -473,7 +435,6 @@
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "summary": "A visual essay inspired by Sepharad, a novel by Antonio Munoz Molina.",
-      "highlights": [""],
       "url": "https://www.detc.cc/work/sepharad"
     },
     {
@@ -481,9 +442,6 @@
       "startDate": "2021-06-01",
       "endDate": "2022-06-01",
       "summary": "Sample Syllabus for a course in creative writing.",
-      "highlights": [
-        "Based on courses taught at the University of Virginia in 2021-2022"
-      ],
       "url": "https://www.detc.cc/work/syllabi"
     }
   ]
