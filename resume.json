@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "contempo"
+    "theme": "macchiato"
   },
   "basics": {
     "name": "Derick Olson-Chan",
@@ -8,11 +8,11 @@
     "image": "https://avatars0.githubusercontent.com/u/5404230?s=400&u=796a4392511e91287b5ee67533ea43e9c416227c&v=4",
     "email": "olsonderick@gmail.com",
     "website": "https://detc.cc",
-    "summary": "I'm a full stack software engineer with 5 years of experience building and shipping apps for millions of users at startups like Remind, 1stDibs, and Foursquare. I also have an MFA in Creative Writing and a passion for storytelling, community engagement, and digital archives. I’m looking to contribute my skills and experience to an innovative team working at the intersection of technology, learning, and language, to work together toward a sustainable future.",
+    "phone": "209.450.3948",
+    "summary": "I'm a full stack software engineer with 5 years of experience building and shipping apps for millions of users at startups like Remind, 1stDibs, and Foursquare. I also have an MFA in Creative Writing. I have a passion for storytelling, community engagement, and libraries. I’m looking to contribute my skills and experience to an innovative team working at the intersection of technology, language, and education to work together toward a sustainable future.",
     "location": {
-      "city": "Cambridge",
-      "countryCode": "US",
-      "region": "Massachusetts"
+      "city": "Cambridge,",
+      "region": "MA"
     },
     "profiles": [
       {
@@ -29,15 +29,16 @@
   },
   "work": [
     {
+      "company": "Self-Employed",
       "position": "Freelance Software Developer",
       "location": "Cambridge, MA",
       "website": "https://detc.cc/contact",
       "startDate": "2023-01-01",
       "summary": "Need help with a project? Drop me a line. I'm based in Cambridge, MA and am available for short and long-term freelance work.",
       "highlights": [
-        "Professional services: React/Next apps, Personal sites, Typescript, API integrations, and GraphQL servers.",
+        "Professional services: React/Next apps, Personal sites, API integrations, Python scripts, and GraphQL servers.",
         "Hobby projects: I'm open to collborating on projects involving: generative fiction, digital books, and education.",
-        "Currently Learning: React Native"
+        "Currently Learning: React Native for mobile and cross-platform apps."
       ]
     },
     {
@@ -47,7 +48,7 @@
       "website": "https://english.as.virginia.edu/",
       "startDate": "2021-06-01",
       "endDate": "2022-06-01",
-      "summary": "I was a Poe/Faulkner Fellow in Fiction and completed a Master of Fine Arts degree with my manuscript `Dry Creek Bridge`. As a graduate instructor in UVA&#x27;s Creative Writing program, I taught multiple sections of undergrads, helping students discover what, how, and why they write.",
+      "summary": "At UVA, I was a Poe/Faulkner Fellow in Fiction from 2020-2022. As a graduate instructor in UVA's Creative Writing program, I taught multiple sections of undergrads, helping students discover what, how, and why they write.",
       "highlights": [
         "Public speaking, workshops, and group facilitation.",
         "Pedagogy and Mentorship.",
@@ -77,14 +78,14 @@
       "position": "Software Engineer",
       "location": "San Francisco, CA",
       "website": "https://remind.com/chat",
-      "startDate": "2015-05-01",
+      "startDate": "2015-12-01",
       "endDate": "2017-09-01",
       "summary": "Remind helps students, teachers, and parents safely communicate in K-12 schools. As a Product Engineer on the Core Engagement team, I worked across the stack to ship features support a user base of 20M+ using: Ruby on Rails, Go, React, GraphQL, Node, AWS, Docker, and CircleCI.",
       "highlights": [
-        "Full-stack implementation of reaction emojis for Message Reactions, File Uploading, and Message Composition.",
-        "Contributed to team-wide adoption of modern javascript frameworks: Apollo GraphQL, Redux, and React",
-        "Re-wrote Twilio integration for modern JavaScript and Node (no more callbacks!)",
-        "Part of monthly 48 hour on-call rotations to monitor backend infrastructure and front end services",
+        "Launched full-stack implementations on a large SPA React application for: an iOS-based Redesign, Message Reactions, File Uploading, and Message Composition.",
+        "Contributed to team-wide adoption of React frameworks: Apollo GraphQL, Redux, and Flow",
+        "Re-wrote the Twilio integration for a core messaging service using modern JavaScript and Node (no more callbacks!)",
+        "Joined twice-monthly on-call rotations to monitor backend infrastructure and front end services",
         "Successfully ran a multi-week migration from Rails-based PostgreSQL to Go service built on DynamoDB with zero downtime."
       ]
     },
@@ -95,10 +96,9 @@
       "website": "https://foursquare.com/",
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
-      "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a data engineering intern, I learned a ton from a team of Data Scientists. I supported the in-house Machine Learning pipeline using Scalding and Luigi MapReduce frameworks, improving Scala server performance, and created internal tools for the product team.",
+      "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a Data Engineering intern, I launched a new feature (Recently Viewed Venues) for Foursquare's LambdaMART Learning-to-Rank model, which became top-ten score in succesful geolocation ranking problems.",
       "highlights": [
-        "Implemented 'Recently Viewed Venues' feature for LambdaMART learning-to-rank model.",
-        "Improved product-engineering communication by creating internal dashboard for testing location models.",
+        "Improved product-engineering communication by creating internal dashboard for testing location models with various scores and weights.",
         "Re-wrote notifications pipeline in Scala to fetch data in concurrent stages.",
         "Decreased machine utilization by batching service calls for similar notifications."
       ]
@@ -124,11 +124,7 @@
       "location": "Philadelphia, PA",
       "startDate": "2014-09-01",
       "endDate": "2015-03-01",
-      "summary": "Web-based recruitment platform, Crowd.",
-      "highlights": [
-        "Designed, implemented, and deployed the company landing page.",
-        "Served as primary liason between non-technical founder and software contractors for web and iOS apps."
-      ]
+      "summary": "Crowd was a recruitment platform for web and mobile focused on good conversation. As one of the first three employees, I designed, implemented, and deployed the company's first landing page. I also served as the primary liason between a non-technical founder and a team of software contractors."
     },
     {
       "company": "Capvision Partners",
@@ -137,13 +133,7 @@
       "website": "https://capvision.com/",
       "startDate": "2013-09-01",
       "endDate": "2015-05-01",
-      "summary": "Cross-functional intern working with members of IT and Marketing teams for a financial consulting firm.",
-      "highlights": [
-        "Objective-C, Core Data, Swift, and SQLite.",
-        "Built iOS app (凯盛汇/KaiShengHui) for consultants to read and share in-house industry news, find new projects, find and RSVP to events, and view profile and existing project updates.",
-        "Collaborated with all-Chinese Marketing and Design teams to define application requirements.",
-        "Designed and implemented networking client backed by Core Data to persist JSON responses to local SQLite."
-      ]
+      "summary": "During a summer internship in Shanghai, I worked with members of the IT and Marketing department to prototype the company's first iOS app: a News Aggregator for financial consultants based in China and abroad. I built 凯盛汇 (KaiShengHui) on an OSX environment using Objective-C, Core Data, and AFNetworking. I also worked with the Marketing team to proofread translated content in English. By the end of the summer, I had a testable prototype to hand off to a new full-time iOS developer, made lasting friends, and upped my Badminton game 20x."
     },
     {
       "company": "Sustrana",
@@ -152,7 +142,7 @@
       "website": "https://capvision.com/",
       "startDate": "2013-09-01",
       "endDate": "2015-05-01",
-      "summary": "Sustrana provides consultations for Environmental Sustainability and Management, helping businesses navigate the tax and legal benefits of protecting their local environment. As an intern, I wrote 10,000+ words of educational content and modules, and helped the founders with their go-to-market strategy to expand from individual consultations to a web-based MVP.",
+      "summary": "Sustrana was an Environmental Sustanability consultancy. I joined them for a summer and one academic year as a Product Development intern to develop a curriculum and launch strategy for a SaaS-based subscription service for local businesses to develop their own Sustainability Management plans."
     }
   ],
   "volunteer": [
@@ -189,22 +179,21 @@
     },
     {
       "organization": "Code Nation",
-      "position": "Teacher",
+      "position": "Web Development Teacher",
       "website": "https://codenation.org",
       "startDate": "2017-09-01",
       "endDate": "2019-06-01",
-      "summary": "Taught web development fundamentals (js/html/css) to high school students in Brooklyn (Uncommon Charter) and Manhattan (Seward Park Campus, Essex, LoMa, Dual-Language). I also organized and hosted my students on a field trip / Hack-a-thon at my office, 1stdibs HQ"
+      "summary": "For two academic years, I spent two afternoons per week teaching web development fundamentals (js/html/css) to high schools in New York City. I worked with team of volunteer teachers in Brooklyn (Uncommon Charter) and Manhattan (Seward Park Campus, Essex, LoMa, Dual-Language) and organized and hosted Student/Teacher Hack-a-thon at 1stdibs HQ."
     },
     {
       "organization": "Literature in Context (UVA)",
       "position": "Digital Humanities Associate",
-      "website": "https://https://anthology.lib.virginia.edu/index.html",
       "startDate": "2022-06-01",
-      "endDate": "2022-09-01"
+      "endDate": "2022-08-01"
     },
     {
-      "organization": "Poetry / Fiction Judge",
-      "position": "Fralin Museum of Art",
+      "organization": "Fralin Museum of Art",
+      "position": "Poetry / Fiction Judge",
       "website": "https://uvafralinartmuseum.virginia.edu/",
       "startDate": "2021-12-01",
       "endDate": "2021-12-31",
@@ -221,14 +210,13 @@
     {
       "organization": "Yoga Society of San Francisco",
       "position": "Resident Yoga Teacher",
-      "website": "https://yogasocietysanfrancisco.com/",
       "startDate": "2016-01-01",
       "endDate": "2017-09-01",
       "summary": "As a Resident Yoga Teacher at an urban ashram in San Francisco, I led twice-weekly Hatha Yoga classes, led Agnihotra fire ceremonies and meditations most weekdays, and led three two-hour workshops on Meditative Breathwork."
     },
     {
       "organization": "oikos Penn",
-      "position": "Teacher",
+      "position": "Board Member",
       "website": "https://oikospennblog.wordpress.com/about/",
       "startDate": "2017-09-01",
       "endDate": "2019-06-01",
@@ -249,11 +237,12 @@
         "Structuring the Novel",
         "Forms and Theory of Poetry",
         "Rhetoric and Pedagogy",
+        "Reading the Esoteric",
         "Introduction to Pali"
       ]
     },
     {
-      "institution": "University of Virginia",
+      "institution": "University of Pennsylvania",
       "website": "https://upenn.edu",
       "area": "Computer Science, East Asian Studies",
       "studyType": "Bachelor of Arts",
@@ -262,29 +251,12 @@
       "score": "3.6",
       "courses": [
         "Internet & Web Systems",
-        "Programming and Problem Solving",
-        "Unix Operating Systems",
+        "Operating Systems",
         "Linux",
-        "Algorithms",
-        "Theory of Computation"
+        "Theory of Computation",
+        "Introduction to Buddhism",
+        "Daoist Scripture and Traditions"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Poe Faulkner Fellowship 2020-2022",
-      "date": "2020-09-01",
-      "awarder": "University of Virginia"
-    },
-    {
-      "title": "Dean's List 2011-2013",
-      "date": "2013-06-01",
-      "awarder": "University of Pennsylvania"
-    },
-    {
-      "title": "Benjamin Franklin Scholar 2011-2015",
-      "date": "2015-06-01",
-      "awarder": "University of Pennsylvania"
     }
   ],
   "certificates": [
@@ -297,25 +269,25 @@
   ],
   "publications": [
     {
-      "name": "SNAKES",
+      "name": "Snakes (havehashad.com)",
       "publisher": "HAD Magazine",
       "releaseDate": "2020-12-12",
       "website": "https://www.havehashad.com/hadposts/snakes"
     },
     {
-      "name": "Novel Excerpt: Dry Creek Bridge",
+      "name": "Novel Excerpt: Dry Creek Bridge (lib.virginia.edu)",
       "publisher": "University of Virginia Libraries",
       "releaseDate": "2023-04-18",
       "website": "https://libraetd.lib.virginia.edu/public_view/ff365641t"
     },
     {
-      "name": "Bypassing Censorship on Sina Weibo",
+      "name": "Censorship on Sina Weibo (sino-platonic.org)",
       "publisher": "Sino Platonic Papers",
       "releaseDate": "2016-12-12",
       "website": "https://sino-platonic.org/complete/spp264_sinitic_language_script.pdf"
     },
     {
-      "name": "Sarina",
+      "name": "Sarina (creative.writing.upenn.edu)",
       "publisher": "Peregrine Magazine",
       "releaseDate": "2016-04-01",
       "website": "https://creative.writing.upenn.edu/honors-awards/creative-writing-prizes"
@@ -411,17 +383,7 @@
       "name": "Meditation"
     }
   ],
-  "references": [
-    {
-      "reference": "Micheline Aharonian Marcom Professor of Creative Writing at the University of Virginia. Founder of the New American Story Project."
-    },
-    {
-      "reference": "Ronald Williams, Software Engineer at Amazon (former Director at 1stDibs)"
-    },
-    {
-      "reference": "Enna Grazier, Founder of Enna Chocolate."
-    }
-  ],
+  "references": [],
   "projects": [
     {
       "name": "Open Meditations Podcast",
