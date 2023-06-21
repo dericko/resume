@@ -37,7 +37,7 @@
       "summary": "Need help with a project? Drop me a line. I'm based in Cambridge, MA and am available for short and long-term freelance work.",
       "highlights": [
         "Professional services: React/Next apps, Personal sites, API integrations, Python scripts, and GraphQL servers.",
-        "Hobby projects: I'm open to collborating on projects involving: generative fiction, digital books, and education.",
+        "Hobby projects: I'm open to collaborating on projects involving: generative fiction, digital books, and education.",
         "Currently Learning: React Native for mobile and cross-platform apps."
       ]
     },
@@ -96,7 +96,7 @@
       "website": "https://foursquare.com/",
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
-      "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a Data Engineering intern, I launched a new feature (Recently Viewed Venues) for Foursquare's LambdaMART Learning-to-Rank model, which became top-ten score in succesful geolocation ranking problems.",
+      "summary": "Foursquare is a location-based social network with 50M+ monthly users with a recommendations platform leveraging the power of geolocation. As a Data Engineering intern, I launched a new feature (Recently Viewed Venues) for Foursquare's LambdaMART Learning-to-Rank model, which became top-ten score in successful geolocation ranking problems.",
       "highlights": [
         "Improved product-engineering communication by creating internal dashboard for testing location models with various scores and weights.",
         "Re-wrote notifications pipeline in Scala to fetch data in concurrent stages.",
